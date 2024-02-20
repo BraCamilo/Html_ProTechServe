@@ -1,0 +1,12 @@
+body{
+    background-color: #D7D9D9;
+}
+
+.container {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 18px;
+  }
